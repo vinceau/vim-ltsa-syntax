@@ -4,7 +4,7 @@
 
 This vim plugin provides extremely basic syntax highlighting for the [Labelled Transition System Analyser (LTSA) tool][lts] used in the book [Concurrency: State Models & Java Programs][ltsbook] by Jeff Magee and Jeff Kramer.
 
-The plugin detects the `.lts` filetype and can highlight keywords as well as comments.
+The plugin detects the `.lts` file extension and can highlight keywords as well as comments.
 
 ## Installation
 
